@@ -24,7 +24,7 @@ const Header = () => {
           <div className="flex justify-center sm:justify-end items-center space-x-6 text-sm">
             <a href="tel:+1234567890" className="flex items-center space-x-1 hover:text-yellow-400">
               <Phone size={14} />
-              <span>+91 98765 43210</span>
+              <span>+880 1827610848</span>
             </a>
             <a href="mailto:nihar@example.com" className="flex items-center space-x-1 hover:text-yellow-400">
               <Mail size={14} />
