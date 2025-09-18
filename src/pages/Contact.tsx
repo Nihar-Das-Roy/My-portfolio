@@ -284,7 +284,7 @@ const Contact = () => {
                   <a href="#" className="bg-slate-800 p-3 rounded-lg hover:bg-slate-700 transition-colors">
                     <Instagram size={20} />
                   </a>
-                  <a href="https://www.facebook.com/nihardasroy22" className="bg-slate-800 p-3 rounded-lg hover:bg-slate-700 transition-colors">
+                  <a href="#" className="bg-slate-800 p-3 rounded-lg hover:bg-slate-700 transition-colors">
                     <Facebook size={20} />
                   </a>
                   <a href="#" className="bg-slate-800 p-3 rounded-lg hover:bg-slate-700 transition-colors">
