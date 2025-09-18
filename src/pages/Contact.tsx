@@ -278,7 +278,7 @@ const Contact = () => {
               <div className="mt-8 pt-6 border-t border-slate-700">
                 <h3 className="font-semibold mb-4">Follow Me</h3>
                 <div className="flex space-x-4">
-                  <a href="https://www.linkedin.com/in/nihar-das-roy-532859365/" className="bg-slate-800 p-3 rounded-lg hover:bg-slate-700 transition-colors">
+                  <a href="#" className="bg-slate-800 p-3 rounded-lg hover:bg-slate-700 transition-colors">
                     <Linkedin size={20} />
                   </a>
                   <a href="#" className="bg-slate-800 p-3 rounded-lg hover:bg-slate-700 transition-colors">
